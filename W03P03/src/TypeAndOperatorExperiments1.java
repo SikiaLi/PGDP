@@ -1,0 +1,2 @@
+public class TypeAndOperatorExperiments1 {
+}
